@@ -16,9 +16,9 @@
 ```bash
 		npm install
 ```
-> 或去我的百度网盘获取rar压缩包[点击这个地址](http://pan.baidu.com/s/1mhQZenY)
+<!-- > 或去我的百度网盘获取rar压缩包[点击这个地址](http://pan.baidu.com/s/1mhQZenY) -->
 >
->【2017.03.03】这个rar压缩包已经不是最新了，如果继续使用的话，还需要执行一次npm install
+<!-- >【2017.03.03】这个rar压缩包已经不是最新了，如果继续使用的话，还需要执行一次npm install -->
 
 （3）开发，输入命令行
 ```bash
@@ -44,7 +44,8 @@ vue-router2：[http://router.vuejs.org/zh-cn/index.html](http://router.vuejs.org
 
 vuex指南开始：[http://vuex.vuejs.org/zh-cn/intro.html](http://vuex.vuejs.org/zh-cn/intro.html)
 
-另外可查看vue2中文指南上面的例子汇总(只整理了部分，方便我自己使用而做的)，[点击查看](http://www.Sunshine-rookie.com/c/14248.html)。
+另外可查看vue2中文指南上面的例子汇总(只整理了部分，方便我自己使用而做的)，[点击查看]
+<!-- (http://www.Sunshine-rookie.com/c/14248.html)。 -->
 
 
 ## 目录结构 ##
