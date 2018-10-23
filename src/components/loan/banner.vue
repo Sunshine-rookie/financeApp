@@ -16,7 +16,7 @@
       return {
         lists: [{
           tit: '',
-          img: '../../assets/img/flashCredit.png',
+          img: '//github.com/Sunshine-rookie/financeApp/blob/gh-pages/src/assets/img/flashCredit.png',
           isOn: false,
           // href: 'https://cgtzfiles.b0.upaiyun.com/cgjr/jrwx/html/huodong/sjRename.html'
           href: self
@@ -25,6 +25,14 @@
             tit: '',
             img: '../../../assets/img/Auto.png',
             isOn: false,
+
+
+
+
+
+
+
+
             // href: 'https://cgtzfiles.b0.upaiyun.com/cgjr/jrwx/html/huodong/autoPay.html'
             href: self
           }
